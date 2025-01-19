@@ -13,5 +13,5 @@ En esta lista esta todo lo que estaremos viendo a lo largo de los tutoriales.
 
 
 ## Mi Canal y Videos
-- [Canal de YouTube](#) *(https://youtube.com/@IpodCraftYT)*
-- [Lista de Reproducción](#) *()*
+- [Canal de YouTube](https://youtube.com/@IpodCraftYT) *(https://youtube.com/@IpodCraftYT)*
+- [Lista de Reproducción]() *()*
